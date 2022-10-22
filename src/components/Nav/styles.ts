@@ -74,6 +74,7 @@ float: right;
 text-align: center;
 position: absolute;
 right: 16px;
+z-index: 1;
 `}
 `
 
