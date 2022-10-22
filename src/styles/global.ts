@@ -7,7 +7,6 @@ const GlobalStyles = createGlobalStyle`
     box-sizing: border-box;
     overflow-x: hidden;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
 }
 `
 export default GlobalStyles
